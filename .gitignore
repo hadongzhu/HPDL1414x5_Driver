@@ -1,0 +1,14 @@
+**/DebugConfig/
+**/Listings/
+**/Objects/
+**/EventRecorderStub.scvd
+**/JLink*
+**/*.uvguix.*
+**/*.bak
+**/*.uvoptx
+**/Debug/
+**/Flash/
+**/Release/
+**/settings/
+**/*.dep
+**/.vscode/
